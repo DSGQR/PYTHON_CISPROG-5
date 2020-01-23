@@ -1,4 +1,4 @@
-# print ("Your name is", name)
+print ("Your name is", name)
 # First Evaluation Output: NameError: name 'name' is not defined
 
 name = 'Daniel'
